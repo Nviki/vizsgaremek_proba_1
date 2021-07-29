@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "TestWeb",
+    "children" : [ {
+      "name" : "WebTest()",
+      "uid" : "7d8d047f46f2b726",
+      "parentUid" : "7a3d0e8deb27b6868d8b13bf6069a013",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627561109665,
+        "stop" : 1627561144421,
+        "duration" : 34756
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "WebTest2()",
+      "uid" : "f61f46bbc993ada7",
+      "parentUid" : "7a3d0e8deb27b6868d8b13bf6069a013",
+      "status" : "passed",
+      "time" : {
+        "start" : 1627561144508,
+        "stop" : 1627561149235,
+        "duration" : 4727
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "WebTest3()",
+      "uid" : "a311238ba7e53a86",
+      "parentUid" : "7a3d0e8deb27b6868d8b13bf6069a013",
+      "status" : "failed",
+      "time" : {
+        "start" : 1627561149239,
+        "stop" : 1627561152987,
+        "duration" : 3748
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7a3d0e8deb27b6868d8b13bf6069a013"
+  } ],
+  "name" : "suites"
+}
